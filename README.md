@@ -1,2 +1,2 @@
 Instagram 💀
-<Insert Project Name> ✔
+InstaKilo ✔

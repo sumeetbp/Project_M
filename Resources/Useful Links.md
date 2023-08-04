@@ -1,0 +1,5 @@
+- [Manually Build a Login Flow](https://developers.facebook.com/docs/facebook-login/guides/advanced/manual-flow/)
+- [Instagram System Design Concept](https://www.youtube.com/watch?v=QmX2NPkJTKg&ab_channel=GauravSen)
+- [Build a Login Form (Node.js)](https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&ab_channel=WebDevSimplified)
+- [React JS User Register](https://www.youtube.com/watch?v=brcHK3P6ChQ&list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd&ab_channel=DaveGray)
+- 
