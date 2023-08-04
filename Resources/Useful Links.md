@@ -2,4 +2,9 @@
 - [Instagram System Design Concept](https://www.youtube.com/watch?v=QmX2NPkJTKg&ab_channel=GauravSen)
 - [Build a Login Form (Node.js)](https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ&ab_channel=WebDevSimplified)
 - [React JS User Register](https://www.youtube.com/watch?v=brcHK3P6ChQ&list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd&ab_channel=DaveGray)
+- [MERN stack environment setup](https://www.youtube.com/watch?v=aSxhWTEDJOs&ab_channel=WsCubeTech)
+- [20 System Design Concepts](https://www.youtube.com/watch?v=i53Gi_K3o7I&ab_channel=NeetCode)
+- [Using DevOps with AWS](https://www.youtube.com/watch?v=JZL2tOncw3U&list=PLLu1bCv5AByGUZUl4N2fhZdtHg0pd7G8E&index=1&pp=iAQB)
+- [Introduction to Jenkins](https://www.youtube.com/watch?v=5a76QPsNg9g&ab_channel=JuriyBura)
+- [Create MERN CI/CD Pipline using Jenkins, Ansible, Docker, Dockerhub and Kubernetes](https://www.youtube.com/watch?v=5gfwSMsL-O8&list=PLw2O1KZPQDGadOh_aotqlaMknrUYio5c-&ab_channel=DevopsandCloudComputingTraining)
 - 
