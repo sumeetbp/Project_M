@@ -8,3 +8,4 @@
 - [Introduction to Jenkins](https://www.youtube.com/watch?v=5a76QPsNg9g&ab_channel=JuriyBura)
 - [Create MERN CI/CD Pipline using Jenkins, Ansible, Docker, Dockerhub and Kubernetes](https://www.youtube.com/watch?v=5gfwSMsL-O8&list=PLw2O1KZPQDGadOh_aotqlaMknrUYio5c-&ab_channel=DevopsandCloudComputingTraining)
 - [Real Time Colors](https://realtimecolors.com/?colors=000000-ffffff-8fb3ff-ebf1ff-d41d6d)
+- [Learn React](https://react.dev/learn)

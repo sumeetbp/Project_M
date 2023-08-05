@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Related Diagrams/Repository Structure.md",
+                "file": "Resources/Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Related Diagrams/Repository Structure.md",
+                "file": "Resources/Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Related Diagrams/Repository Structure.md"
+                "file": "Resources/Useful Links.md"
               }
             }
           }
@@ -157,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29f851bb519b8a06",
+  "active": "54c026e3ea50e9cb",
   "lastOpenFiles": [
-    "Daily Agenda/2023-08-04.md",
     "Project Related Diagrams/Repository Structure.md",
+    "Daily Agenda/2023-08-04.md",
     "Resources/Useful Links.md",
     "conflict-files-obsidian-git.md",
     "README.md",
