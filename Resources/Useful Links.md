@@ -9,3 +9,4 @@
 - [Create MERN CI/CD Pipline using Jenkins, Ansible, Docker, Dockerhub and Kubernetes](https://www.youtube.com/watch?v=5gfwSMsL-O8&list=PLw2O1KZPQDGadOh_aotqlaMknrUYio5c-&ab_channel=DevopsandCloudComputingTraining)
 - [Real Time Colors](https://realtimecolors.com/?colors=000000-ffffff-8fb3ff-ebf1ff-d41d6d)
 - [Learn React](https://react.dev/learn)
+- [Best extensions for VSCode](https://www.youtube.com/watch?v=KUv_1W6a0Uc&list=PL7sjyrcbibupg3Cl1V3SS-_kzZo74x2RP&index=4&pp=iAQB)
