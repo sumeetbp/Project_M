@@ -10,3 +10,5 @@
 - [Real Time Colors](https://realtimecolors.com/?colors=000000-ffffff-8fb3ff-ebf1ff-d41d6d)
 - [Learn React](https://react.dev/learn)
 - [Best extensions for VSCode](https://www.youtube.com/watch?v=KUv_1W6a0Uc&list=PL7sjyrcbibupg3Cl1V3SS-_kzZo74x2RP&index=4&pp=iAQB)
+- [Setting up nodemon and express](https://www.youtube.com/watch?v=w3vs4a03y3I&ab_channel=ArpanNeupane)
+- 
