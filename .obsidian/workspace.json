@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Useful Links.md",
+                "file": "Daily Agenda/2023-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Useful Links.md",
+                "file": "Daily Agenda/2023-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Useful Links.md",
+                "file": "Daily Agenda/2023-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Useful Links.md"
+                "file": "Daily Agenda/2023-08-06.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54c026e3ea50e9cb",
+  "active": "ed5e49fdd738f732",
   "lastOpenFiles": [
-    "Project Related Diagrams/Repository Structure.md",
     "Resources/Useful Links.md",
+    "Daily Agenda/2023-08-06.md",
+    "Project Related Diagrams/Repository Structure.md",
     "Daily Agenda/2023-08-04.md",
     "conflict-files-obsidian-git.md",
     "README.md",
