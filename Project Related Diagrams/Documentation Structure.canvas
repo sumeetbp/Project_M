@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"type":"text","text":"Functional Requirements","id":"d2ec84f0f4d7f48f","x":638,"y":-300,"width":250,"height":60},
+		{"type":"text","text":"Non-Functional Requirements","id":"86921602da509f23","x":638,"y":-166,"width":250,"height":60},
+		{"type":"text","text":"UX Documentation","id":"237302a2ecc35321","x":635,"y":-55,"width":250,"height":60},
+		{"type":"text","text":"User Persona","id":"4adefdf6ce4d2f3e","x":983,"y":-136,"width":250,"height":50},
+		{"type":"text","text":"User Scenarios","id":"5dca3d5cc9e5526f","x":981,"y":-50,"width":250,"height":50},
+		{"type":"text","text":"User Stories","id":"35e4a7b946c8181a","x":981,"y":34,"width":250,"height":50},
+		{"type":"text","text":"Architecture Design\n1. Presentation\n2. Business Logic\n3. Database","id":"152b5571f9de6d5a","x":635,"y":59,"width":250,"height":146},
+		{"type":"text","text":"Test Documentation","id":"3052d479c9d11063","x":632,"y":240,"width":250,"height":60},
+		{"type":"text","text":"Test Plan","id":"eaf810a3359b1a06","x":970,"y":190,"width":250,"height":60},
+		{"type":"text","text":"Test Cases","id":"4a222873e98c211e","x":970,"y":270,"width":250,"height":60},
+		{"type":"text","text":"Product Documentation\n(what should the product be like?)","id":"4d5ef76d626c1913","x":300,"y":-47,"width":227,"height":106,"color":"3"},
+		{"id":"01013b79dec84347","x":-860,"y":-132,"width":137,"height":52,"type":"text","text":"Roadmap"},
+		{"type":"text","text":"Project Documentation","id":"beffe0f96920cdcf","x":-120,"y":-27,"width":205,"height":70,"color":"4"},
+		{"type":"text","text":"Process Documentation\n(how are we going to build it?)","id":"a6bd2285e5cb628f","x":-580,"y":-30,"width":250,"height":76,"color":"5"},
+		{"id":"31982e19e58790d0","x":-900,"y":-25,"width":177,"height":66,"type":"text","text":"Performance Metrics"},
+		{"id":"d40834d7452ecff4","x":-860,"y":82,"width":153,"height":58,"type":"text","text":"Standards"}
+	],
+	"edges":[
+		{"id":"1e9b9bf2caa99398","fromNode":"beffe0f96920cdcf","fromSide":"right","toNode":"4d5ef76d626c1913","toSide":"left"},
+		{"id":"79636e3dbe3f75a5","fromNode":"4d5ef76d626c1913","fromSide":"right","toNode":"d2ec84f0f4d7f48f","toSide":"left"},
+		{"id":"36eee5b279602e43","fromNode":"4d5ef76d626c1913","fromSide":"right","toNode":"86921602da509f23","toSide":"left"},
+		{"id":"2ee87889a08b2862","fromNode":"4d5ef76d626c1913","fromSide":"right","toNode":"237302a2ecc35321","toSide":"left"},
+		{"id":"fbeb9a073197ce19","fromNode":"237302a2ecc35321","fromSide":"right","toNode":"4adefdf6ce4d2f3e","toSide":"left"},
+		{"id":"f141f0fa06926815","fromNode":"237302a2ecc35321","fromSide":"right","toNode":"5dca3d5cc9e5526f","toSide":"left"},
+		{"id":"fc23c050a7e82119","fromNode":"237302a2ecc35321","fromSide":"right","toNode":"35e4a7b946c8181a","toSide":"left"},
+		{"id":"086f1ac09cdef895","fromNode":"4d5ef76d626c1913","fromSide":"right","toNode":"152b5571f9de6d5a","toSide":"left"},
+		{"id":"5d7cc9e73832ae0d","fromNode":"4d5ef76d626c1913","fromSide":"right","toNode":"3052d479c9d11063","toSide":"left"},
+		{"id":"8690a7a8cf4ca853","fromNode":"3052d479c9d11063","fromSide":"right","toNode":"eaf810a3359b1a06","toSide":"left"},
+		{"id":"6bbf382f1597891e","fromNode":"3052d479c9d11063","fromSide":"right","toNode":"4a222873e98c211e","toSide":"left"},
+		{"id":"65c9c4bea65bb33f","fromNode":"beffe0f96920cdcf","fromSide":"left","toNode":"a6bd2285e5cb628f","toSide":"right"},
+		{"id":"89887385d63b11c7","fromNode":"a6bd2285e5cb628f","fromSide":"left","toNode":"01013b79dec84347","toSide":"right"},
+		{"id":"3721d6a1f6912783","fromNode":"a6bd2285e5cb628f","fromSide":"left","toNode":"31982e19e58790d0","toSide":"right"},
+		{"id":"551f04d279211e3a","fromNode":"a6bd2285e5cb628f","fromSide":"left","toNode":"d40834d7452ecff4","toSide":"right"}
+	]
+}
