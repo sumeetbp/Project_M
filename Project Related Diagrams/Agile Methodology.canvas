@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"58de06dc756829be","x":340,"y":-175,"width":560,"height":255,"type":"group","label":"Sprint"},
+		{"type":"group","id":"58de06dc756829be","x":340,"y":-175,"width":560,"height":255,"label":"Sprint"},
 		{"type":"file","file":"Misc/product_backlog.png","id":"418cf47a79d1f16e","x":-298,"y":-105,"width":216,"height":140},
 		{"type":"file","file":"Misc/sprint_backlog.png","id":"02464affbc50b91a","x":80,"y":-70,"width":154,"height":70},
 		{"type":"text","text":"Product Backlog","id":"c3fd0698edbd3e67","x":-287,"y":35,"width":195,"height":50},
 		{"type":"text","text":"Sprint Backlog","id":"e419fed9224b53b2","x":60,"y":35,"width":195,"height":50},
-		{"id":"77093eedf7a999cf","x":360,"y":-60,"width":132,"height":50,"type":"text","text":"Planning"},
+		{"type":"text","text":"Planning","id":"77093eedf7a999cf","x":360,"y":-60,"width":132,"height":50},
 		{"type":"text","text":"Design","id":"ca2370f31cc3184b","x":520,"y":-155,"width":120,"height":50},
 		{"type":"text","text":"Release","id":"7e4362893d84be4a","x":520,"y":10,"width":120,"height":50},
 		{"type":"text","text":"Testing Development","id":"4c8039250f1bd227","x":680,"y":-65,"width":200,"height":60},
-		{"id":"cfa12b9b3989b2fd","x":1040,"y":-70,"width":160,"height":50,"type":"text","text":"Final Product"}
+		{"type":"text","text":"Final Product","id":"cfa12b9b3989b2fd","x":1040,"y":-70,"width":160,"height":50}
 	],
 	"edges":[
 		{"id":"501cf46f9607f8a7","fromNode":"418cf47a79d1f16e","fromSide":"right","toNode":"02464affbc50b91a","toSide":"left"},
