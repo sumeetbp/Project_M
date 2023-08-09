@@ -11,5 +11,6 @@
 - [Learn React](https://react.dev/learn)
 - [Best extensions for VSCode](https://www.youtube.com/watch?v=KUv_1W6a0Uc&list=PL7sjyrcbibupg3Cl1V3SS-_kzZo74x2RP&index=4&pp=iAQB)
 - [Setting up nodemon and express](https://www.youtube.com/watch?v=w3vs4a03y3I&ab_channel=ArpanNeupane)
-- [JWT for authorization](https://www.youtube.com/watch?v=7Q17ubqLfaM&ab_channel=WebDevSimplified)
+- [How JWT works and Why to use it?](https://www.youtube.com/watch?v=7Q17ubqLfaM&ab_channel=WebDevSimplified)
+- [JWT authentication tutorial](https://www.youtube.com/watch?v=mbsmsi7l3r4&ab_channel=WebDevSimplified)
 - 
