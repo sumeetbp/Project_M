@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Agenda/2023-08-04.md",
+                "file": "Resources/Useful Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Agenda/2023-08-04.md",
+                "file": "Resources/Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Agenda/2023-08-04.md",
+                "file": "Resources/Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Agenda/2023-08-04.md"
+                "file": "Resources/Useful Links.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "4ba1a760d51d2f88",
   "lastOpenFiles": [
-    "Daily Agenda/2023-08-06.md",
-    "Daily Agenda/2023-08-08.md",
-    "Daily Agenda/2023-08-04.md",
     "Project Related Diagrams/Agile Methodology.canvas",
     "Project Related Diagrams/Documentation Structure.canvas",
+    "Daily Agenda/2023-08-04.md",
+    "Daily Agenda/2023-08-06.md",
+    "Daily Agenda/2023-08-08.md",
     "Resources/Useful Links.md",
     "Misc/sprint_backlog.png",
     "Misc",
