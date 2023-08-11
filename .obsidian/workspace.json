@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-10.md",
+                "file": "Daily Agenda/2023-08-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-10.md",
+                "file": "Daily Agenda/2023-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-10.md",
+                "file": "Daily Agenda/2023-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-10.md"
+                "file": "Daily Agenda/2023-08-10.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "4ba1a760d51d2f88",
   "lastOpenFiles": [
     "Resources/Useful Links.md",
-    "2023-08-10.md",
+    "Daily Agenda/2023-08-10.md",
     "Project Related Diagrams/Agile Methodology.canvas",
     "Project Related Diagrams/Documentation Structure.canvas",
     "Daily Agenda/2023-08-04.md",
