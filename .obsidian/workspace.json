@@ -23,11 +23,14 @@
             "id": "174151634f41b3bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "rohit/Schema Relations.md",
-                "mode": "source",
-                "source": false
+                "file": "rohit/System Design of Photosphere.canvas",
+                "viewState": {
+                  "x": -46.810335127773484,
+                  "y": -25.23729739391831,
+                  "zoom": -0.6666665649414062
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Useful Links.md",
+                "file": "rohit/System Design of Photosphere.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Useful Links.md",
+                "file": "rohit/System Design of Photosphere.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Useful Links.md"
+                "file": "rohit/System Design of Photosphere.canvas"
               }
             }
           }
@@ -159,23 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed5e49fdd738f732",
+  "active": "174151634f41b3bf",
   "lastOpenFiles": [
+    "Project Related Diagrams/Repository Structure.md",
+    "Project Related Diagrams/Documentation Structure.canvas",
+    "Project Related Diagrams/Agile Methodology.canvas",
+    "Misc/sprint_backlog.png",
+    "Misc/product_backlog.png",
+    "Daily Agenda/2023-08-10.md",
+    "Daily Agenda/2023-08-08.md",
+    "Daily Agenda/2023-08-06.md",
+    "Daily Agenda/2023-08-04.md",
     "Resources/Useful Links.md",
+    "Untitled",
     "rohit/Schema Relations.md",
     "rohit/Schema Relations",
-    "Project Related Diagrams/Agile Methodology.canvas",
-    "Project Related Diagrams/Documentation Structure.canvas",
-    "Project Related Diagrams/Repository Structure.md",
-    "Daily Agenda/2023-08-10.md",
     "rohit/System Design of Photosphere.canvas",
-    "Misc/product_backlog.png",
-    "Misc/sprint_backlog.png",
     "rohit/System Design.md",
     "rohit",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "Daily Agenda/2023-08-08.md",
     "2023-08-10.md",
     "Misc",
     "Project Related Diagrams/Untitled.md",
@@ -183,8 +189,6 @@
     "Project Documentation/Process Documentation",
     "Project Documentation/Product Documentation",
     "Project Documentation",
-    "Daily Agenda/2023-08-06.md",
-    "Daily Agenda/2023-08-04.md",
     "Project Related Diagrams",
     "Daily Agenda",
     "Resources"
