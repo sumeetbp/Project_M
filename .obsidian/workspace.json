@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c3cc5dae6f7a535f",
+        "id": "f0a1d23ae720e2d8",
         "type": "tabs",
         "children": [
           {
-            "id": "7795cea8ce2fffee",
+            "id": "37893883bff13efa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "rohit/System Design of Photosphere.canvas",
+                "viewState": {
+                  "x": -35,
+                  "y": -40,
+                  "zoom": -1.1737426671812623
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rohit/System Design of Photosphere.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rohit/System Design of Photosphere.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rohit/System Design of Photosphere.canvas"
+              }
             }
           }
         ]
@@ -138,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7795cea8ce2fffee",
+  "active": "37893883bff13efa",
   "lastOpenFiles": [
     "Daily Agenda/2023-08-10.md",
     "Project Related Diagrams/Documentation Structure.canvas",
