@@ -23,14 +23,11 @@
             "id": "174151634f41b3bf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "rohit/System Design of Photosphere.canvas",
-                "viewState": {
-                  "x": -46.810335127773484,
-                  "y": -25.23729739391831,
-                  "zoom": -0.6666665649414062
-                }
+                "file": "Vatsal/Component Hierarchy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rohit/System Design of Photosphere.canvas",
+                "file": "Vatsal/Component Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rohit/System Design of Photosphere.canvas",
+                "file": "Vatsal/Component Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rohit/System Design of Photosphere.canvas"
+                "file": "Vatsal/Component Hierarchy.md"
               }
             }
           }
@@ -162,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "174151634f41b3bf",
+  "active": "ed5e49fdd738f732",
   "lastOpenFiles": [
+    "Vatsal/Component Hierarchy.md",
+    "Vatsal",
     "Project Related Diagrams/Repository Structure.md",
     "Project Related Diagrams/Documentation Structure.canvas",
     "Project Related Diagrams/Agile Methodology.canvas",
@@ -174,7 +173,6 @@
     "Daily Agenda/2023-08-06.md",
     "Daily Agenda/2023-08-04.md",
     "Resources/Useful Links.md",
-    "Untitled",
     "rohit/Schema Relations.md",
     "rohit/Schema Relations",
     "rohit/System Design of Photosphere.canvas",
