@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ecf021e0401f12",
+        "id": "c3cc5dae6f7a535f",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b8d56f030f6836",
+            "id": "7795cea8ce2fffee",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "rohit/System Design of Photosphere.canvas",
-                "viewState": {
-                  "x": 30.999969482421875,
-                  "y": -22.4000244140625,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rohit/System Design of Photosphere.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rohit/System Design of Photosphere.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rohit/System Design of Photosphere.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,23 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3b8d56f030f6836",
+  "active": "7795cea8ce2fffee",
   "lastOpenFiles": [
-    "rohit/System Design.md",
-    "rohit/System Design of Photosphere.canvas",
     "Daily Agenda/2023-08-10.md",
+    "Project Related Diagrams/Documentation Structure.canvas",
+    "Project Related Diagrams/Agile Methodology.canvas",
+    "Misc/product_backlog.png",
+    "Misc/sprint_backlog.png",
+    "rohit/System Design of Photosphere.canvas",
+    "rohit/System Design.md",
     "rohit",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Project Related Diagrams/Repository Structure.md",
-    "Project Related Diagrams/Documentation Structure.canvas",
     "Daily Agenda/2023-08-08.md",
     "2023-08-10.md",
-    "Project Related Diagrams/Agile Methodology.canvas",
     "Resources/Useful Links.md",
-    "Misc/sprint_backlog.png",
     "Misc",
-    "Misc/product_backlog.png",
     "Project Related Diagrams/Untitled.md",
     "Project Related Diagrams/Untitled mindmap.md",
     "Project Documentation/Process Documentation",
