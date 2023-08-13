@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Documentation/Frontend/Component hierarchy.md",
+                "file": "Resources/Useful Links.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "174151634f41b3bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Documentation/Frontend/Component hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Documentation/Frontend/Component hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project Documentation/Frontend/Component hierarchy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,16 +151,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37893883bff13efa",
+  "active": "174151634f41b3bf",
   "lastOpenFiles": [
-    "Project Documentation/Component Hierarchy/Component.md",
-    "Project Documentation/Frontend/Component hierarchy.md",
-    "Project Documentation/Frontend",
-    "Untitled",
-    "Untitled.md",
-    "Project Documentation/Component Hierarchy",
-    "Untitled 1",
-    "Project Documentation",
     "README.md",
     "Vatsal/Component Hierarchy.md",
     "Project Related Diagrams/Documentation Structure.canvas",
@@ -179,6 +176,11 @@
     "Misc",
     "Project Related Diagrams/Untitled.md",
     "Project Related Diagrams/Untitled mindmap.md",
-    "Project Documentation/Process Documentation"
+    "Project Documentation/Process Documentation",
+    "Project Documentation/Product Documentation",
+    "Project Documentation",
+    "Project Related Diagrams",
+    "Daily Agenda",
+    "Resources"
   ]
 }
