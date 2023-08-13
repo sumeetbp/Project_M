@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c71b291bd9a3316e",
+        "id": "d1ecf021e0401f12",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba1a760d51d2f88",
+            "id": "d3b8d56f030f6836",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Project Related Diagrams/Documentation Structure.canvas",
-                "viewState": {
-                  "x": 166.5,
-                  "y": 148.70458742755443,
-                  "zoom": -1.7867808379528047
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Related Diagrams/Documentation Structure.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Related Diagrams/Documentation Structure.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project Related Diagrams/Documentation Structure.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,25 +138,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ba1a760d51d2f88",
+  "active": "ed5e49fdd738f732",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Project Related Diagrams/Repository Structure.md",
+    "Project Related Diagrams/Documentation Structure.canvas",
+    "Daily Agenda/2023-08-08.md",
+    "2023-08-10.md",
     "Project Related Diagrams/Agile Methodology.canvas",
     "Resources/Useful Links.md",
     "Misc/sprint_backlog.png",
     "Misc",
     "Misc/product_backlog.png",
-    "Project Related Diagrams/Documentation Structure.canvas",
     "Project Related Diagrams/Untitled.md",
-    "Daily Agenda/2023-08-08.md",
     "Project Related Diagrams/Untitled mindmap.md",
     "Project Documentation/Process Documentation",
     "Project Documentation/Product Documentation",
     "Project Documentation",
     "Daily Agenda/2023-08-06.md",
-    "Project Related Diagrams/Repository Structure.md",
     "Daily Agenda/2023-08-04.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
     "Project Related Diagrams",
     "Daily Agenda",
     "Resources"
