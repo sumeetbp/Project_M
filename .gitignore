@@ -3,3 +3,6 @@ rohit
 .obsidian/plugins
 .obsidian/community-plugins.json
 .obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/core-plugins.json
