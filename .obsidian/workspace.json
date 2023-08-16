@@ -23,8 +23,15 @@
             "id": "174151634f41b3bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Project Related Diagrams/Agile Methodology.canvas",
+                "viewState": {
+                  "x": 451,
+                  "y": -45,
+                  "zoom": -1.2769344960709843
+                }
+              }
             }
           }
         ],
@@ -94,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project Related Diagrams/Agile Methodology.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project Related Diagrams/Agile Methodology.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project Related Diagrams/Agile Methodology.canvas"
+              }
             }
           }
         ]
@@ -153,6 +164,8 @@
   },
   "active": "174151634f41b3bf",
   "lastOpenFiles": [
+    "Daily Agenda/2023-08-10.md",
+    "sumeet",
     "README.md",
     "Vatsal/Component Hierarchy.md",
     "Project Related Diagrams/Documentation Structure.canvas",
@@ -160,7 +173,6 @@
     "Project Related Diagrams/Agile Methodology.canvas",
     "Misc/sprint_backlog.png",
     "Misc/product_backlog.png",
-    "Daily Agenda/2023-08-10.md",
     "Daily Agenda/2023-08-08.md",
     "Daily Agenda/2023-08-06.md",
     "Vatsal",
@@ -180,7 +192,6 @@
     "Project Documentation/Product Documentation",
     "Project Documentation",
     "Project Related Diagrams",
-    "Daily Agenda",
-    "Resources"
+    "Daily Agenda"
   ]
 }
